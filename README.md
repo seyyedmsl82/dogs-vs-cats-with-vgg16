@@ -1,4 +1,4 @@
-```markdown
+
 # Cats vs Dogs Image Classification with VGG16
 
 This repository contains a Python script for image classification of cats and dogs using the VGG16 architecture. The VGG16 model is a popular convolutional neural network (CNN) architecture for image classification tasks.
@@ -56,4 +56,4 @@ The model achieves high accuracy on the validation dataset, demonstrating its ef
 
 Feel free to modify and experiment with the code for your own projects!
 
-```
+![VGG Structure Diagram](path/to/vgg_structure_diagram.png)
