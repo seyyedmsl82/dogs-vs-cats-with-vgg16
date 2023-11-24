@@ -50,10 +50,14 @@ The script performs the following steps:
 - VGG11 has 8 convolutional layers and 3 fully connected layers, while VGG19 has 16 convolutional layers and 3 fully connected layers.
 - There are 5 pooling layers distributed under different convolutional layers.
 
+
+![VGG Structure Diagram](https://raw.githubusercontent.com/blurred-machine/Data-Science/master/Deep%20Learning%20SOTA/img/vgg.png)
+![VGG Network](https://raw.githubusercontent.com/blurred-machine/Data-Science/master/Deep%20Learning%20SOTA/img/network.png)
+![VGG Config](https://raw.githubusercontent.com/blurred-machine/Data-Science/master/Deep%20Learning%20SOTA/img/config3.jpg)
+
+
 ## Results
 
 The model achieves high accuracy on the validation dataset, demonstrating its effectiveness in classifying cat and dog images.
 
 Feel free to modify and experiment with the code for your own projects!
-
-![VGG Structure Diagram](path/to/vgg_structure_diagram.png)
