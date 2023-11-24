@@ -1,5 +1,3 @@
-Sure, here's a basic GitHub README for your code:
-
 ```markdown
 # Cats vs Dogs Image Classification with VGG16
 
